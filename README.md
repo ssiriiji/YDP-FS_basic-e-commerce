@@ -31,3 +31,14 @@ A modern e-commerce website built with React and Tailwind CSS as part of **Eduvi
 
 ## 🚀 Installation / การติดตั้ง
 
+# Clone the repository
+git clone https://github.com/ssiriiji/YDP-FS_basic-e-commerce.git
+
+# Navigate to the project directory
+cd e-commerce
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
