@@ -1,16 +1,33 @@
-# React + Vite
+# YDP E-Commerce Website 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+โปรเจกต์ E-Commerce สร้างด้วย React และ Tailwind CSS ภายใต้โครงการ **Eduvice Fellowship Program: Young Developer Power 2025** จัดโดย **Eduvice by DevA**
 
-Currently, two official plugins are available:
+A modern e-commerce website built with React and Tailwind CSS as part of **Eduvice Fellowship Program: Young Developer Power 2025** organized by **Eduvice by DevA**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features / ฟีเจอร์
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🛍️ แสดงรายการสินค้า / Product browsing
+- 🔍 กรองสินค้าตามหมวดหมู่ / Category filtering  
+- 📱 Responsive design
+- 📦 รายละเอียดสินค้าครบถ้วน / Detailed product pages
+- ❤️ เพิ่มสินค้าในรายการโปรด / Add to favorites (developing)
+- 🛒 ระบบตะกร้าสินค้า / Shopping cart (developing)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack / เทคโนโลยี
+
+- **React** - JavaScript library
+- **Vite** - Build tool
+- **Tailwind CSS** - Styling
+- **React Router DOM** - Routing
+- **Axios** - API calls
+- **Lucide React** - Icons
+- **Fake Store API** - Product data
+
+---
+
+## 🚀 Installation / การติดตั้ง
+
