@@ -120,7 +120,7 @@ const Home = () => {
           {products.map((product) => (
             <ProductCard
               key={product.id}
-              id={product.id}              // เพิ่มบรรทัดนี้ - สำคัญ!
+              id={product.id}              
               image={product.image}
               title={product.title}
               subtitle={product.category}
@@ -131,8 +131,6 @@ const Home = () => {
           ))}
         </div>
       </div>
-
-      {/* Footer - เพิ่มส่วนนี้ */}
     </div>
   );
 };
